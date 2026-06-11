@@ -92,7 +92,7 @@ Pastikan perangkat kamu sudah terinstal:
 ### 1. Clone atau Download Proyek
 
 ```bash
-git clone https://github.com/username/nama-repo.git
+[https://github.com/evansibara/Project-Order-Kantin.git]
 ```
 
 Atau download ZIP lalu ekstrak ke folder pilihan kamu.
